@@ -76,7 +76,7 @@ nav ul li a:hover{
 
 main {
     /* background-color: chartreuse; */
-    height: 186vh;
+    height: 205vh;
     width: 100vw;
     overflow: hidden;
 }
@@ -289,7 +289,7 @@ main {
 }
 .poster{
     background-color: #4985ca;
-    display: grid;
+    display: flex;
     grid-template-columns: auto auto auto;
     width: 1519px;
     margin: 161px -45px
