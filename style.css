@@ -309,10 +309,10 @@ footer{
     height: 30px;
 }
 .image2 img{
-    width: 1519px;
+    width: 100%;
 }
 .image img{
-    width: 1519px;
+    width: 100%;
 }
 @keyframes progress_status {
     0%{
